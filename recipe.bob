@@ -1,0 +1,21 @@
+{
+  "project" : {
+    "name" : "pipes",
+    "shortName" : "pipes",
+    "version" : "0.0.1",
+    "dependencies" : [
+      {
+        "dependency" : "glib",
+        "version" : "2.0"
+      },
+      {
+        "dependency" : "gobject",
+        "version" : "2.0"
+      },
+      {
+        "dependency" : "gio",
+        "version" : "2.0"
+      }
+    ]
+  }
+}
